@@ -1,0 +1,11 @@
+.main_cont {
+  width: 100%;
+  margin: 0 auto;
+}
+.appItem {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
